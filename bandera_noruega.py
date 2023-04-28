@@ -1,10 +1,10 @@
 from tkinter import *
 
-# Bandera De Francia
+# Bandera De Noruega
 ventana_principal = Tk()
 
 # ventana
-ventana_principal.title("Bandera de Francia")
+ventana_principal.title("Bandera de Noruega")
 ventana_principal.geometry("800x800")
 ventana_principal.resizable(False, False)
 ventana_principal.config(bg="white")
